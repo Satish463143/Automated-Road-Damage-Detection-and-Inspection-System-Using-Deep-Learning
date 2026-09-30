@@ -1,0 +1,12 @@
+{
+  "model_name": "Road Damage Detector",
+  "architecture": "YOLOv8n",
+  "version": "v1.0",
+  "training_dataset": "RDD2022 India Subset",
+  "image_size": 640,
+  "precision": 0.0011877336,
+  "recall": 0.2863143436,
+  "map50": 0.0046652900,
+  "map50_95": 0.0011087673,
+  "training_date": "2026-09-25"
+}
